@@ -20,7 +20,6 @@ I received this task from a previous colleague of mine. He gave me a a wireframe
 
 
 
-
 ## TECHNOLOGIES USED
 - HTML(5)
 - SASS/SCSS
